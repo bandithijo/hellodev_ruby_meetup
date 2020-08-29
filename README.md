@@ -4,7 +4,6 @@ Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev o
 
 *Sedang dalam proses penyusunan lebih detail...*
 
-<br>
 ```
 1. Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)
    - Ubuntu & macOS dapat merujuk ke https://gorails.com/setup
