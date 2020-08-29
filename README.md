@@ -1,10 +1,10 @@
-# REQUIREMENT FOR RUBY LANGUAGE
+# REQUIREMENT FOR 💎 RUBY LANGUAGE
 
 Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev online meet up, materi: Ruby Dasar.
 
-*Sedang dalam proses penyusunan lebih detail.*
+*Sedang dalam proses penyusunan lebih detail...*
 
-
+<br><br>
 ```
 1. Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)
    - Ubuntu & macOS dapat merujuk ke https://gorails.com/setup
