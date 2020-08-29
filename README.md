@@ -1,6 +1,8 @@
 # REQUIREMENT FOR RUBY LANGUAGE
 
-Sedang dalam proses penyusunan lebih detail.
+Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev online meet up, materi: Ruby Dasar.
+
+*Sedang dalam proses penyusunan lebih detail.*
 
 
 ```
