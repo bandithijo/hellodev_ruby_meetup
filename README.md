@@ -1,4 +1,4 @@
-# HelloDev Online Meet: Basic Ruby
+# HelloDev Online Meeting: Basic Ruby
 
 ## REQUIREMENT FOR 💎 RUBY LANGUAGE
 
