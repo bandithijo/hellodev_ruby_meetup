@@ -112,12 +112,12 @@ Speaker: [Rizqi Nur Assyaufi](https://bandithijo.github.io)
 
 <br>
 
-# Referensi
+## Referensi
 
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
    (4, 6, 7, 8, 9, 10, 11, 12, 13)
 
-# Acknowledgment
+## Acknowledgment
 
 1. [Agung Setiawan (Facebook)](https://www.facebook.com/agungsetiawanmu)
 
