@@ -1,4 +1,6 @@
-# REQUIREMENT FOR 💎 RUBY LANGUAGE
+# HelloDev Online Meet: Basic Ruby
+
+## REQUIREMENT FOR 💎 RUBY LANGUAGE
 
 Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev online meet up, materi: Ruby Dasar.
 
@@ -18,7 +20,7 @@ Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev o
 
 <br>
 
-# HelloDev: Basic Ruby
+## TOPICS
 
 Speaker: [Rizqi Nur Assyaufi](https://bandithijo.github.io)
 
