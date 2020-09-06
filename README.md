@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # HelloDev Online Meetup: 💎 Ruby for Beginner
 
 ⏰ : **Jum'at, 11 September 2020** - **20.00 WITA**

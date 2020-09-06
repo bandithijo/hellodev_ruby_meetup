@@ -1,2 +1,19 @@
-theme: default
-# markdown: CommonMarkGhPages
+# PENGGUNAAN:
+# -----------------------------------------------------------------------------
+# - Instalasi gem yang diperlukan
+#   $ bundle
+#
+# - Jalankan Jekyll server
+#   $ bundle exec jekyll s
+# -----------------------------------------------------------------------------
+
+title: 'HelloDev Online Meetup: 💎 Ruby for Beginner'
+
+lang: 'id-ID'
+
+defaults:
+  -
+    scope:
+      path: 'README.md'
+    values:
+      permalink: 'index.html'
