@@ -85,7 +85,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Named parameter
     - [ ] Splat
 
-<b>Topik tambahan...</b>
+    <b>Topik tambahan...</b>
 
 10. **File IO**
     - [ ] Write file
