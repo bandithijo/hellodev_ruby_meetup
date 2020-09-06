@@ -1,8 +1,8 @@
-# HelloDev Online Meetup: Ruby for Beginner
+# HelloDev Online Meetup: 💎 Ruby for Beginner
 
 Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
 
-## REQUIREMENT FOR 💎 RUBY LANGUAGE
+## 📦 REQUIREMENT FOR RUBY LANGUAGE
 
 Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev online meetup.
 
@@ -20,7 +20,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 <br>
 
-## TOPICS
+## 📓 TOPICS
 
 <details>
   <summary>Topik yang akan dibicarakan meliputi:</summary><br>
@@ -120,7 +120,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 <br>
 
-## REFERENSI
+## 📚 REFERENSI
 
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
    (4, 6, 7, 8, 9, 10, 11, 12, 13)
@@ -129,6 +129,6 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 3. [Ruby Programming Uses: What Can You Create?](https://www.rubyguides.com/2019/11/what-can-you-do-with-ruby/)
 
-## ACKNOWLEDGMENT
+## 🤝 ACKNOWLEDGMENT
 
 1. [Agung Setiawan (Facebook)](https://www.facebook.com/agungsetiawanmu)
