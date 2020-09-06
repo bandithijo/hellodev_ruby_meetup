@@ -88,7 +88,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 <details markdown="1">
   <summary><b>Topik tambahan...</b></summary><br>
 
-10. **File IO**{:start="10"}
+(10). **File IO**
     - [ ] Write file
     - [ ] Append file
     - [ ] Read file
