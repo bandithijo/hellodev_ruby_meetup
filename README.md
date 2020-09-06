@@ -166,6 +166,8 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 <br>
 
+<hr class="footer">
+
 <div id="footer-box">
 <p class="alignl">Made with ❤️ by <a href="https://bandithijo.github.io">Rizqi Nur Assyaufi - @BanditHijo</a> - 2020/09</p>
 <p class="alignr">Powered by 🧪 <a href="https://jekyllrb.com"><b>Jekyll</b></a></p>

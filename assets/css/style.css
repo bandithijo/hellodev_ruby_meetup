@@ -4,6 +4,12 @@
   color: #ffffff;
 }
 
+hr.footer {
+  border: none;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 16px;
+}
+
 #footer-box .alignl {
 	float: left;
 }
