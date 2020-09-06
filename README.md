@@ -22,6 +22,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 ## 🗃️ TOPICS
 
+{::options parse_block_html="true" /}
 <details>
   <summary>Topik yang akan dibicarakan meliputi:</summary><br>
 
