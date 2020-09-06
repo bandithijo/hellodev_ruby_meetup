@@ -19,7 +19,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
       (hanya bagian installing Ruby dengan Rbenv)
     - Windows dapat merujuk ke [https://rubyinstaller.org/downloads](https://rubyinstaller.org/downloads)
 02. **Menyiapkan Terminal Emulator**
-    - Ubuntu dapat menggunakan Terminal emulator bawaan ubuntu
+    - Ubuntu dapat menggunakan Terminal emulator bawaan Ubuntu
     - macOS dapat menggunakan Terminal, iTerm2, Hyper
     - Windows dapat menggunakan PowerShell, cmder (recommended)
 03. **Menyiapkan Text Editor**
