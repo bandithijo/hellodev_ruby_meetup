@@ -28,9 +28,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
     - [ ] Is Ruby dead programming language?<br>
-        - [https://www.similartech.com/technologies/ruby-on-rails](https://www.similartech.com/technologies/ruby-on-rails)
-        - [https://www.similartech.com/categories/framework](https://www.similartech.com/categories/framework)
-    - [ ] Apa yang baru dari RUby 2.7 [rubyguides.com/2019/12/ruby-2-7-new-features/](https://www.rubyguides.com/2019/12/ruby-2-7-new-features/)
+    - [ ] Apa yang baru dari RUby 2.7?
     - [ ] Bagaimana memasang Ruby di sistem?
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB: comment, variable, puts, p, & print)
