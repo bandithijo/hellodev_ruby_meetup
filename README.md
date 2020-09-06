@@ -10,7 +10,7 @@ layout: default
 
 🎟️ : [bit.ly/ruby-for-beginner-hello-dev](http://bit.ly/ruby-for-beginner-hello-dev)
 
-## 📦 REQUIREMENT FOR RUBY LANGUAGE
+## 📦 REQUIREMENTS
 
 Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev online meetup.
 
