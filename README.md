@@ -23,7 +23,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 ## 🗃️ TOPICS
 
 <details markdown="1">
-  <summary>Topik yang akan dibicarakan meliputi:</summary><br>
+  <summary>Topik yang akan dibicarakan meliputi:</summary>
 
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
@@ -86,7 +86,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Splat
 
 <details markdown="1">
-  <summary><b>Topik tambahan...</b></summary><br>
+  <summary><b>Topik tambahan...</b></summary>
 
 10. **File IO**
     - [ ] Write file
