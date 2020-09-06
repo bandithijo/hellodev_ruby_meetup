@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css" integrity="sha512-Oy18vBnbSJkXTndr2n6lDMO5NN31UljR8e/ICzVPrGpSud4Gkckb8yUpqhKuUNoE+o9gAb4O/rAxxw1ojyUVzg==" crossorigin="anonymous" />
-
 # HelloDev Online Meetup: Basic Ruby
 
 ## REQUIREMENT FOR 💎 RUBY LANGUAGE
@@ -7,22 +5,22 @@
 Berikut ini adalah beberapa persyaratan yang perlu dipersiapkan untuk HelloDev online meet up, materi: Ruby Dasar.
 
 01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)**
-    - [ ] Ubuntu & macOS dapat merujuk ke https://gorails.com/setup<br>
+    - [x] Ubuntu & macOS dapat merujuk ke [https://gorails.com/setup](https://gorails.com/setup)<br>
           (hanya bagian installing Ruby dengan Rbenv)
-    - [ ] Windows dapat merujuk ke https://rubyinstaller.org/downloads
+    - [x] Windows dapat merujuk ke [https://rubyinstaller.org/downloads](https://rubyinstaller.org/downloads)
 02. **Menyiapkan Terminal Emulator**
-    - [ ] Ubuntu dapat menggunakan Terminal emulator bawaan ubuntu
-    - [ ] macOS dapat menggunakan Terminal, iTerm2, Hyper
-    - [ ] Windows dapat menggunakan PowerShell, cmder (recommended)
+    - [x] Ubuntu dapat menggunakan Terminal emulator bawaan ubuntu
+    - [x] macOS dapat menggunakan Terminal, iTerm2, Hyper
+    - [x] Windows dapat menggunakan PowerShell, cmder (recommended)
 03. **Menyiapkan Text Editor**
-    - [ ] VSCode (boleh pasang ekstension ruby-rubocop untuk Ruby linter)
-    - [ ] Vim (boleh pasang plugin vim-rubocop untuk Ruby linter)
+    - [x] VSCode (boleh pasang ekstension ruby-rubocop untuk Ruby linter)
+    - [x] Vim (boleh pasang plugin vim-rubocop untuk Ruby linter)
 
 <br>
 
 ## TOPICS
 
-Speaker: [Rizqi Nur Assyaufi](https://bandithijo.github.io)
+Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
 
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
@@ -109,13 +107,14 @@ Speaker: [Rizqi Nur Assyaufi](https://bandithijo.github.io)
     - [ ] Include
     - [ ] Extend
 
-
 <br>
 
 ## Referensi
 
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
    (4, 6, 7, 8, 9, 10, 11, 12, 13)
+
+2. [CodingPhase - is ruby a dead language in 2019? | Dead Programming Languages](https://youtu.be/vb0lKJmUqlM)
 
 ## Acknowledgment
 
