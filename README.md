@@ -114,7 +114,7 @@ Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
    (4, 6, 7, 8, 9, 10, 11, 12, 13)
 
-2. [CodingPhase - is ruby a dead language in 2019? | Dead Programming Languages](https://youtu.be/vb0lKJmUqlM)
+2. [CodingPhase - is ruby a dead language in 2019? Dead Programming Languages](https://youtu.be/vb0lKJmUqlM)
 
 ## Acknowledgment
 
