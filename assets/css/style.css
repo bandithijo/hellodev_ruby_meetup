@@ -218,7 +218,7 @@
 }
 .task-list-item input {
   font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  margin: 0 0 0.25em -1.6em;
+  margin: 0 0.4em 0.25em -1.6em;
   vertical-align: middle;
 }
 .task-list-item input[disabled] {
