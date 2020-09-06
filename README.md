@@ -1,8 +1,10 @@
 # HelloDev Online Meetup: Ruby for Beginner
 
+Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
+
 ## REQUIREMENT FOR 💎 RUBY LANGUAGE
 
-Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev online meet up.
+Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev online meetup.
 
 01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)**
     - [x] Ubuntu & macOS dapat merujuk ke [https://gorails.com/setup](https://gorails.com/setup)<br>
@@ -20,10 +22,15 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 ## TOPICS
 
-Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
+<details>
+  <summary>Topik yang akan dibicarakan meliputi:</summary><br>
 
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
+    - [ ] Is Ruby dead programming language?<br>
+        - [https://www.similartech.com/technologies/ruby-on-rails](https://www.similartech.com/technologies/ruby-on-rails)
+        - [https://www.similartech.com/categories/framework](https://www.similartech.com/categories/framework)
+    - [ ] Apa yang baru dari RUby 2.7 [rubyguides.com/2019/12/ruby-2-7-new-features/](https://www.rubyguides.com/2019/12/ruby-2-7-new-features/)
     - [ ] Bagaimana memasang Ruby di sistem?
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB: comment, variable, puts, p, & print)
@@ -62,6 +69,7 @@ Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
     - [ ] Hash default value
     - [ ] Manipulate the Hash<br>
           (add & delete hash item)
+    - [ ] Cara alternatif menulis Array & Hash
 08. **Looping**
     - [ ] For
     - [ ] Each
@@ -106,6 +114,9 @@ Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
     - [ ] Class module
     - [ ] Include
     - [ ] Extend
+</details>
+
+
 
 <br>
 
@@ -116,7 +127,8 @@ Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
 
 2. [CodingPhase - is ruby a dead language in 2019?](https://youtu.be/vb0lKJmUqlM)
 
+3. [Ruby Programming Uses: What Can You Create?](https://www.rubyguides.com/2019/11/what-can-you-do-with-ruby/)
+
 ## Acknowledgment
 
 1. [Agung Setiawan (Facebook)](https://www.facebook.com/agungsetiawanmu)
-
