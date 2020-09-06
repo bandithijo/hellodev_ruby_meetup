@@ -20,7 +20,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 <br>
 
-## 📓 TOPICS
+## 🗃️ TOPICS
 
 <details>
   <summary>Topik yang akan dibicarakan meliputi:</summary><br>
