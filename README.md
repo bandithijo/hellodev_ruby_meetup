@@ -138,3 +138,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 ## 🤝 ACKNOWLEDGMENT
 
 1. [**Agung Setiawan** (Facebook)](https://www.facebook.com/agungsetiawanmu)
+
+<br>
+
+Made with ❤ by <a href="https://bandithijo.github.io">Rizqi Nur Assyaufi - @BanditHijo</a> - 2020/09
