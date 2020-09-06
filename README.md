@@ -85,7 +85,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Named parameter
     - [ ] Splat
 
-  <details markdown="1">
+<details markdown="1">
   <summary><b>Topik tambahan...</b></summary><br>
 
 10. **File IO**
@@ -114,7 +114,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Include
     - [ ] Extend
 
-  </details>
+</details>
 </details>
 
 <br>
