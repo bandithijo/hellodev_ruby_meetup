@@ -1,6 +1,9 @@
 # HelloDev Online Meetup: 💎 Ruby for Beginner
 
-Speaker: [**Rizqi Nur Assyaufi (@BanditHijo)**](https://bandithijo.github.io)
+⏰ : **Jum'at, 11 September 2020** - **20.00 WITA**
+
+🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
+
 
 ## 📦 REQUIREMENT FOR RUBY LANGUAGE
 
