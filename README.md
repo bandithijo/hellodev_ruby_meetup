@@ -22,9 +22,10 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 ## 🗃️ TOPICS
 
-{::options parse_block_html="true" /}
 <details>
   <summary>Topik yang akan dibicarakan meliputi:</summary><br>
+
+<div markdown="1">
 
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
@@ -114,6 +115,8 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Class module
     - [ ] Include
     - [ ] Extend
+
+</div>
 </details>
 </details>
 
