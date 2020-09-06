@@ -1,14 +1,10 @@
 #page-ctn {
   margin: 0 auto;
   max-width: 900px;
-  /* color: #24292e; */
   color: #ffffff;
 }
 
 #page-header {
-  /* padding: 8px; */
-  /* background-color: #f6f8fa; */
-  /* border-color: #d1d5da; */
   padding: 0;
   background-color: #ffffff;
   border-color: #ffffff;
@@ -60,7 +56,6 @@ header#page-header {
   word-wrap: break-word;
   padding: 45px;
   background: #fff;
-  /* border: 1px solid #ddd; */
   border: 1px solid #fff;
   -webkit-border-radius: 0 0 3px 3px;
   border-radius: 0 0 3px 3px;
@@ -126,7 +121,6 @@ header#page-header {
 }
 .markdown-body ol,
 .markdown-body ul {
-  /* padding-left: 2em; */
   padding-left: 1.3em;
 }
 .markdown-body ol ol,
@@ -135,12 +129,10 @@ header#page-header {
 }
 .markdown-body ol ul,
 .markdown-body ul ul {
-  /* list-style-type: circle; */
   list-style-type: disc;
 }
 .markdown-body ol ul ul,
 .markdown-body ul ul ul {
-  /* list-style-type: square; */
   list-style-type: disc;
 }
 .markdown-body ol {
@@ -249,7 +241,6 @@ header#page-header {
 }
 .task-list-item input {
   font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  /* margin: 0 0.35em 0.25em -1.6em; */
   margin: 0 0 0.25em -1.6em;
   vertical-align: middle;
 }
