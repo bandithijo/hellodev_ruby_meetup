@@ -28,7 +28,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 <div markdown="1">
 
 01. **Introduction to Ruby Lang**
-    - [x] Kenapa Ruby?
+    - [ ] Kenapa Ruby?
     - [ ] Is Ruby dead programming language?
     - [ ] Apa yang baru dari Ruby 2.7?
     - [ ] Bagaimana memasang Ruby di sistem?
