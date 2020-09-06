@@ -87,8 +87,12 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Named parameter
     - [ ] Splat
 
+</div>
+
 <details>
   <summary><b>Topik tambahan...</b></summary><br>
+
+<div markdown="1">
 
 10. **File IO**
     - [ ] Write file
@@ -119,7 +123,6 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 </div>
 </details>
 </details>
-
 
 
 <br>
