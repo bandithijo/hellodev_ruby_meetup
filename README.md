@@ -8,6 +8,7 @@ layout: default
 
 🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
 
+🎟️ : [bit.ly/ruby-for-beginner-hello-dev](http://bit.ly/ruby-for-beginner-hello-dev)
 
 ## 📦 REQUIREMENT FOR RUBY LANGUAGE
 
@@ -30,7 +31,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 ## 🗃️ TOPICS
 
 <details markdown="1">
-  <summary>Topik yang akan dibicarakan meliputi:</summary>
+  <summary style="cursor:pointer;">Topik yang akan dibicarakan meliputi: *<i>click to open</i></summary>
 
 01. **Introduction to Ruby Lang**
     - [ ] Kenapa Ruby?
@@ -137,11 +138,31 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
 ## 📢 ORGANIZER
 
-1. [**HelloDev** (Instagram)](https://www.instagram.com/hellodev_id/)
+1. [**HelloDev**](https://www.instagram.com/hellodev_id/)
+
+## 🏗️ SUPPORTED BY
+
+1. [**DILo Balikpapan**]()
+
+## 📺 MEDIA PARTNER
+
+1. [**Tekno Event**](https://www.instagram.com/teknoevent/)
+
+2. [**OUR**]()
 
 ## 🤝 ACKNOWLEDGMENT
 
-1. [**Agung Setiawan** (Facebook)](https://www.facebook.com/agungsetiawanmu)
+1. [**Agung Setiawan**](https://www.facebook.com/agungsetiawanmu)
+
+## 🙏 THANKS TO
+
+1. [**Fachrizal Rifahdi**](https://www.instagram.com/fachrizalrifahdi/)
+
+2. [**Fachreza Muslim**](https://www.instagram.com/fachreza_muslim/)
+
+3. [**Heru Joko**](https://www.instagram.com/heruujoko/)
+
+4. [**All HelloDev Team Member**](https://www.instagram.com/hellodev_id/)
 
 <br>
 
