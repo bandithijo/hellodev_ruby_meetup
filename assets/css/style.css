@@ -4,13 +4,11 @@
   color: #ffffff;
 }
 
-.site-footer {
-  margin: 0;
-  padding: 30px 0 0 0;
+#footer-box .alignl {
+	float: left;
 }
-
-.site-footer p {
-  margin-bottom: 0 !important;
+#footer-box .alignr {
+	float: right;
 }
 
 .margin-tb-zero,
