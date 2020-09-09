@@ -34,10 +34,11 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
   <summary style="cursor:pointer;">Topik yang akan dibicarakan meliputi: *<i>click to open</i></summary>
 
 01. **Introduction to Ruby Lang**
-    - [ ] Kenapa Ruby?
+    - [ ] Sedikit tentang Ruby?
     - [ ] Is Ruby dead programming language?
+    - [ ] Kenapa memilih Ruby?
     - [ ] Apa yang baru dari Ruby 2.7?
-    - [ ] Bagaimana memasang Ruby di sistem?
+    - [ ] Tips memasang Ruby untuk developer?
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB: comment, variable, puts, p, & print)
 02. **Working with String(a)**
