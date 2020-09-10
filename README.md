@@ -12,7 +12,7 @@ layout: default
 
 ## 📦 REQUIREMENTS
 
-Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev online meetup.
+Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti kelas.
 
 01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)**
     - Ubuntu & macOS dapat merujuk ke [https://gorails.com/setup](https://gorails.com/setup)<br>
@@ -41,25 +41,27 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Tips memasang Ruby untuk developer?
     - [ ] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB: comment, variable, puts, p, & print)
-02. **Working with String(a)**
+02. **Variable**
+    - [ ] Apa itu variable?
+    - [ ] Scope/jangkauan dari variable?
+03. **Working with String(a)**
     - [ ] String concatenation
     - [ ] String interpolation
     - [ ] Mengecek method-method yang tersedia untuk string<br>
           (Demokan method yang umum digunakan)
-    - [ ] Variable assignment
     - [ ] Escaping character
     - [ ] Common string manipulation with strip & split
-03. **Working with String(b)**
+04. **Working with String(b)**
     - [ ] Getting input from user
-04. **Working with Number**
+05. **Working with Number**
     - [ ] Order of arithmetic operation
     - [ ] Penjumlahan, Pengurangan, Perkalian, Pembagian, Modulus, etc.
     - [ ] Methods (introduction)
     - [ ] Times
-05. **Comparison operators**
+06. **Comparison operators**
     - [ ] Show the common comparison operators & methods for comparison
     - [ ] Boolean
-06. **Branching/Condition**
+07. **Branching/Condition**
     - [ ] If & Else
     - [ ] Unless
     - [ ] If/Unless for one statement
@@ -68,7 +70,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] If nested/bertingkat
     - [ ] Case
     - [ ] Ternary operators
-07. **Collection**
+08. **Collection**
     - [ ] Array
     - [ ] Manipulate the Array<br>
           (join, push, pop, shift, unshift)
@@ -77,13 +79,13 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Manipulate the Hash<br>
           (add & delete hash item)
     - [ ] Cara alternatif menulis Array & Hash
-08. **Looping**
+09. **Looping**
     - [ ] For
     - [ ] Each
     - [ ] Map
     - [ ] Select
     - [ ] While
-09. **Method**
+10. **Method**
     - [ ] Introduction of method
     - [ ] Return value
     - [ ] Dalam kurung adalah opsional
@@ -96,17 +98,17 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
 
     <br><b>Topik tambahan...</b>
 
-10. **File IO**
+11. **File IO**
     - [ ] Write file
     - [ ] Append file
     - [ ] Read file
     - [ ] Delete file
-11. **Error Handling**
+12. **Error Handling**
     - [ ] Begin & Rescue
     - [ ] Rescue parameter
     - [ ] Rescue specific
     - [ ] Demo: membuat Log for error
-12. **Object Oriented Programming**
+13. **Object Oriented Programming**
     - [ ] Intro OOP & Dasar OOP
     - [ ] Constructor
     - [ ] Instance variable, Class variable, Global variable
@@ -116,7 +118,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan untuk HelloDev onl
     - [ ] Inheritance
     - [ ] Super
     - [ ] Class method
-13. **Module**
+14. **Module**
     - [ ] Intro to module
     - [ ] Class module
     - [ ] Include
