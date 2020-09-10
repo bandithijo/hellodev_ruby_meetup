@@ -128,6 +128,12 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
 
 <br>
 
+## 📽️ SLIDE
+
+1. [HandOut](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
+
+<br>
+
 ## 📚 REFERENCES
 
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
