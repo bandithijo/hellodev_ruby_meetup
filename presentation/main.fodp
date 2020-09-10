@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-11T05:20:44.351537773</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P1DT4H47M22S</meta:editing-duration><meta:editing-cycles>356</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="229"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-11T05:32:44.535200753</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P1DT4H59M22S</meta:editing-duration><meta:editing-cycles>357</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="229"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-855</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">35</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">11</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -18328,7 +18328,7 @@
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>36</text:page-number></text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="1cm" svg:y="2.898cm"/>
@@ -18358,7 +18358,7 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.447cm" svg:x="20.076cm" svg:y="19.13cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>36</text:page-number></text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
@@ -18384,7 +18384,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>36</text:page-number></text:span></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -27553,7 +27553,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr27" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Introd</text:span><text:span text:style-name="T13">uction </text:span><text:span text:style-name="T13">to</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Introduct</text:span><text:span text:style-name="T13">ion to</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T13"> <text:s/></text:span><text:span text:style-name="T13">Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -27568,31 +27568,31 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr28" draw:text-style-name="P26" draw:layer="layout" svg:width="26.367cm" svg:height="5.327cm" svg:x="0.894cm" svg:y="11.3cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">Matz.said(“</text:span><text:span text:style-name="T11">trying to </text:span><text:span text:style-name="T11">make Ruby </text:span><text:span text:style-name="T16">natural</text:span><text:span text:style-name="T11">, </text:span><text:span text:style-name="T16">not simple</text:span><text:span text:style-name="T15">”)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">Matz.said(“</text:span><text:span text:style-name="T11">trying to make Ruby </text:span><text:span text:style-name="T16">natural</text:span><text:span text:style-name="T11">, </text:span><text:span text:style-name="T16">not simple</text:span><text:span text:style-name="T15">”)</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T17"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T17"><text:s text:c="3"/></text:span><text:span text:style-name="T17">_.append(</text:span><text:span text:style-name="T15">“</text:span><text:span text:style-name="T11">Ruby is </text:span><text:span text:style-name="T16">simple in </text:span><text:span text:style-name="T16">appearance</text:span><text:span text:style-name="T11">,</text:span></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s text:c="12"/></text:span><text:span text:style-name="T11">but is </text:span><text:span text:style-name="T16">very complex </text:span><text:span text:style-name="T16">inside</text:span><text:span text:style-name="T11">,</text:span></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s text:c="12"/></text:span><text:span text:style-name="T11">just </text:span><text:span text:style-name="T11">like our human </text:span><text:span text:style-name="T11">body.</text:span><text:span text:style-name="T15">”)</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s text:c="12"/></text:span><text:span text:style-name="T11">but is </text:span><text:span text:style-name="T16">very </text:span><text:span text:style-name="T16">complex inside</text:span><text:span text:style-name="T11">,</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11"><text:s text:c="12"/></text:span><text:span text:style-name="T11">just like our </text:span><text:span text:style-name="T11">human body.</text:span><text:span text:style-name="T15">”)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr29" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="1.97cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Sedikit </text:span><text:span text:style-name="T18">tentang </text:span><text:span text:style-name="T18">Ruby</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Sedikit tentang </text:span><text:span text:style-name="T18">Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr30" draw:text-style-name="P27" draw:layer="layout" svg:width="26.918cm" svg:height="6.449cm" svg:x="0.694cm" svg:y="3.8cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T19">:creator <text:s/>=&gt; </text:span><text:span text:style-name="T11">Yukihiro “Matz” </text:span><text:span text:style-name="T11">Matsumoto</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">:inspired =&gt; </text:span><text:span text:style-name="T19">[ </text:span><text:span text:style-name="T11">Perl</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Smalltalk</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Eiffel</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T11">Ada</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Lisp</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T19">]</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">:inspired =&gt; [ </text:span><text:span text:style-name="T11">Perl</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Smalltalk</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Eiffel</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T11">Ada</text:span><text:span text:style-name="T19">,</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T11">Lisp</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T19">]</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19">:public_release <text:s/>=&gt; </text:span><text:span text:style-name="T11">1995</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">:mass_acceptance =&gt; </text:span><text:span text:style-name="T11">2006</text:span><text:span text:style-name="T20"> &lt; </text:span><text:span text:style-name="T19">DHH.create(</text:span><text:span text:style-name="T11">Ruby on </text:span><text:span text:style-name="T11">Rails</text:span><text:span text:style-name="T19">,</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T20"><text:s text:c="20"/></text:span><text:span text:style-name="T20"><text:s text:c="18"/></text:span><text:span text:style-name="T11">Basecamp</text:span><text:span text:style-name="T20">,</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T20"><text:s text:c="20"/></text:span><text:span text:style-name="T20"><text:s text:c="18"/></text:span><text:span text:style-name="T11">2003</text:span><text:span text:style-name="T19">)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">:mass_acceptance =&gt; </text:span><text:span text:style-name="T11">2006</text:span><text:span text:style-name="T20"> &lt; </text:span><text:span text:style-name="T19">DHH.create(</text:span><text:span text:style-name="T11">Ruby on Rails</text:span><text:span text:style-name="T19">,</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T20"><text:s text:c="31"/></text:span><text:span text:style-name="T20"><text:s text:c="7"/></text:span><text:span text:style-name="T11">Basecamp</text:span><text:span text:style-name="T20">,</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T20"><text:s text:c="31"/></text:span><text:span text:style-name="T20"><text:s text:c="7"/></text:span><text:span text:style-name="T11">2003</text:span><text:span text:style-name="T19">)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr31" draw:text-style-name="P28" draw:layer="layout" svg:width="12.144cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.8cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: About Ruby - </text:span><text:span text:style-name="T21">http://www.ruby-lang.org/en/about/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: About Ruby - http://www.ruby-lang.org/en/about/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27606,28 +27606,28 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr32" draw:text-style-name="P26" draw:layer="layout" svg:width="22.346cm" svg:height="11.703cm" svg:x="0.794cm" svg:y="5.212cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">:dev_a =&gt; “</text:span><text:span text:style-name="T22">We moved </text:span><text:span text:style-name="T22">away from Ruby.</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">It’s a </text:span><text:span text:style-name="T22">dying language...</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">and it </text:span><text:span text:style-name="T22">has scalability </text:span><text:span text:style-name="T22">problem</text:span><text:span text:style-name="T19">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">:dev_a =&gt; “</text:span><text:span text:style-name="T22">We moved away from </text:span><text:span text:style-name="T22">Ruby.</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">It’s a dying </text:span><text:span text:style-name="T22">language...</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">and it has </text:span><text:span text:style-name="T22">scalability problem</text:span><text:span text:style-name="T19">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T23"/></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">:dev_b =&gt; “</text:span><text:span text:style-name="T22">Let’s </text:span><text:span text:style-name="T22">host our projects </text:span><text:span text:style-name="T22">on</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T16">GitHub</text:span><text:span text:style-name="T22"> &amp; </text:span><text:span text:style-name="T16">GitLab</text:span><text:span text:style-name="T22">, use </text:span><text:span text:style-name="T16">Stripe</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T22">as</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">our </text:span><text:span text:style-name="T22">payment processor, </text:span><text:span text:style-name="T22">crowdfund</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">with </text:span><text:span text:style-name="T16">KickStarter</text:span><text:span text:style-name="T22">, and</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">:dev_b =&gt; “</text:span><text:span text:style-name="T22">Let’s host our </text:span><text:span text:style-name="T22">projects on</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T16">GitHub</text:span><text:span text:style-name="T22"> &amp; </text:span><text:span text:style-name="T16">GitLab</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T22">use </text:span><text:span text:style-name="T16">Stripe</text:span><text:span text:style-name="T22"> as</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">our payment </text:span><text:span text:style-name="T22">processor, crowdfund</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">with </text:span><text:span text:style-name="T16">KickStarter</text:span><text:span text:style-name="T22">, </text:span><text:span text:style-name="T22">and</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T22"><text:s text:c="11"/></text:span><text:span text:style-name="T22">livestream on </text:span><text:span text:style-name="T16">Twitch</text:span><text:span text:style-name="T24">. Also,</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T24"><text:s text:c="11"/></text:span><text:span text:style-name="T24">write </text:span><text:span text:style-name="T24">about our industry </text:span><text:span text:style-name="T24">and</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T24"><text:s text:c="11"/></text:span><text:span text:style-name="T24">write about our </text:span><text:span text:style-name="T24">industry and</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T24"><text:s text:c="11"/></text:span><text:span text:style-name="T24">programming on </text:span><text:span text:style-name="T16">dev.to</text:span><text:span text:style-name="T19">”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr33" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby </text:span><text:span text:style-name="T18">Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr34" draw:text-style-name="P28" draw:layer="layout" svg:width="18.705cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.801cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: Nate Hopkins @hopsoft - </text:span><text:span text:style-name="T21">https://twitter.com/hopsoft/status/116970632285</text:span><text:span text:style-name="T21">1328000</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: Nate Hopkins @hopsoft - </text:span><text:span text:style-name="T21">https://twitter.com/hopsoft/status/1169706322851328000</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27678,10 +27678,10 @@
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T19">Ruby.who(“</text:span><text:span text:style-name="T27">INDONESIA</text:span><text:span text:style-name="T19">”).value</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"/></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T19">=&gt; [ </text:span><text:span text:style-name="T22">Bukalapak</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Cookpad Indonesia</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Midtrans</text:span><text:span text:style-name="T19">,</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19">=&gt; [ </text:span><text:span text:style-name="T22">Bukalapak</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Cookpad </text:span><text:span text:style-name="T22">Indonesia</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Midtrans</text:span><text:span text:style-name="T19">,</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">Quipper</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Vidio</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">HIJUP</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Alodokter</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Apisentris</text:span><text:span text:style-name="T19">,</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">BBM</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">BelanjaQu</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Binary</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T22">Academy</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Dropsuite</text:span><text:span text:style-name="T19">,</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">Forstok</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">GO-</text:span><text:span text:style-name="T22">JEK</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Jualo</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Jurnal</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Karir.com</text:span><text:span text:style-name="T19">,</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">Forstok</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">GO-JEK</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Jualo</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Jurnal</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Karir.com</text:span><text:span text:style-name="T19">,</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">KlikDokter</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">KMK Online</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Mekari</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Mitrais</text:span><text:span text:style-name="T19">,</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">Peentar</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Qontak</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Sejasa.com</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Sleekr</text:span><text:span text:style-name="T19">,</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T19"><text:s text:c="5"/></text:span><text:span text:style-name="T22">Sribulancer</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Starqle</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Virkea</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">Wego</text:span><text:span text:style-name="T19">, </text:span><text:span text:style-name="T22">WGS</text:span><text:span text:style-name="T19"> ]</text:span></text:p>
@@ -27689,13 +27689,13 @@
     </draw:frame>
     <draw:frame draw:style-name="gr39" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby </text:span><text:span text:style-name="T18">Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P28" draw:layer="layout" svg:width="13.414cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.801cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: :id_ruby – Komunitas Ruby Indonesia – </text:span><text:span text:style-name="T21">https://ruby.id</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: :id_ruby – Komunitas Ruby Indonesia – https://ruby.id</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27709,13 +27709,13 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr41" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby </text:span><text:span text:style-name="T18">Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr42" draw:text-style-name="P23" draw:layer="layout" svg:width="25.183cm" svg:height="8.747cm" svg:x="0.794cm" svg:y="5.3cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">Language::Ruby.is_dead</text:span><text:span text:style-name="T15">?(</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">Language::Ruby.is_dead?(</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T28"><text:a xlink:href="https://www.techradar.com/news/ruby-is-alive-and-well-and-thinking-about-the-next-25-years" xlink:type="simple">Ruby is alive and thinking about next 25 years</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T28"><text:a xlink:href="https://dev.to/teaglebuilt/is-ruby-dead-17em" xlink:type="simple">dev.to/teaglebuilt/is-ruby-dead-17em</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T28"><text:a xlink:href="https://hackernoon.com/the-state-of-ruby-2019-is-it-dying-509160a4fb92" xlink:type="simple">hackernoon.com/the-state-of-ruby-2019-is-it-dying</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
@@ -27737,13 +27737,13 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr43" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby </text:span><text:span text:style-name="T18">Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr44" draw:text-style-name="P23" draw:layer="layout" svg:width="25.183cm" svg:height="8.747cm" svg:x="0.794cm" svg:y="5.3cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">Framework::Rails.is_de</text:span><text:span text:style-name="T15">ad?(</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">Framework::Rails.is_dead?(</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T29"><text:a xlink:href="https://www.similartech.com/technologies/ruby-on-rails" xlink:type="simple">similartech.com/technologies/ruby-on-rails</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T28"><text:a xlink:href="https://www.similartech.com/categories/framework" xlink:type="simple">similartech.com/categories/framework</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T15"><text:s text:c="2"/>“</text:span><text:span text:style-name="T28"><text:a xlink:href="https://hackernoon.com/is-ruby-on-rails-dead-in-2019-b462e9a65b22" xlink:type="simple">hackernoon.com/is-ruby-on-rails-dead-in-2019</text:a></text:span><text:span text:style-name="T15">”</text:span></text:p>
@@ -27765,13 +27765,13 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr45" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby </text:span><text:span text:style-name="T18">Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Is Ruby Dead </text:span><text:span text:style-name="T18">Programming</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Language?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr46" draw:text-style-name="P26" draw:layer="layout" svg:width="22.558cm" svg:height="8.087cm" svg:x="0.794cm" svg:y="5.301cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T23">Language::Ruby.is_</text:span><text:span text:style-name="T23">dead?(</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T23">Language::Ruby.is_dead?(</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T23"><text:s text:c="2"/>“</text:span><text:span text:style-name="T30"><text:a xlink:href="https://rubyisdead.science/" xlink:type="simple">Ruby is dead. (rubyisdead.science)</text:a></text:span><text:span text:style-name="T23">”</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T23">)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T23">=&gt; </text:span><text:span text:style-name="T31">false!</text:span></text:p>
@@ -27804,7 +27804,7 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr49" draw:text-style-name="P32" draw:layer="layout" svg:width="24.8cm" svg:height="2.655cm" svg:x="1.6cm" svg:y="14.856cm">
       <draw:text-box>
-       <text:p text:style-name="P31"><text:span text:style-name="T33">Just because Ruby </text:span><text:span text:style-name="T33">is not popular </text:span><text:span text:style-name="T33">anymore, it </text:span><text:span text:style-name="T33">doesn&apos;t mean Ruby </text:span><text:span text:style-name="T33">is dead, right?</text:span></text:p>
+       <text:p text:style-name="P31"><text:span text:style-name="T33">Just because Ruby is not </text:span><text:span text:style-name="T33">popular anymore, it </text:span><text:span text:style-name="T33">doesn&apos;t mean Ruby is dead, </text:span><text:span text:style-name="T33">right?</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -27819,20 +27819,20 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr50" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Kenapa </text:span><text:span text:style-name="T18">Memilih </text:span><text:span text:style-name="T18">Ruby?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Kenapa Memilih Ruby?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr51" draw:text-style-name="P26" draw:layer="layout" svg:width="25.648cm" svg:height="8.747cm" svg:x="0.694cm" svg:y="3.701cm">
+    <draw:frame draw:style-name="gr51" draw:text-style-name="P26" draw:layer="layout" svg:width="25.648cm" svg:height="8.747cm" svg:x="0.694cm" svg:y="3.501cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">Learning::Ruby.is_wort</text:span><text:span text:style-name="T15">h?(:me).value</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">Learning::Ruby.is_wo</text:span><text:span text:style-name="T15">rth?(:me).value</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">{</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">a: “</text:span><text:span text:style-name="T28">Membantu </text:span><text:span text:style-name="T28">menterjemahkan </text:span><text:span text:style-name="T28">ide/solusi, menjadi </text:span><text:span text:style-name="T28">sebuah</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T28"><text:s text:c="4"/></text:span><text:span text:style-name="T28">script atau </text:span><text:span text:style-name="T28">program.</text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">b: “</text:span><text:span text:style-name="T28">Membantu </text:span><text:span text:style-name="T28">menyederhanakan </text:span><text:span text:style-name="T28">kerumitan.</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">c: “</text:span><text:span text:style-name="T28">Membantu </text:span><text:span text:style-name="T28">menjembatani interaksi </text:span><text:span text:style-name="T28">user dengan sistem</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">c: “</text:span><text:span text:style-name="T28">Membantu </text:span><text:span text:style-name="T28">menjembatani </text:span><text:span text:style-name="T28">interaksi user </text:span><text:span text:style-name="T28">dengan sistem</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T28"><text:s text:c="4"/></text:span><text:span text:style-name="T28">Operasi.</text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">d: “...”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">} </text:span><text:span text:style-name="T34">=&gt; Handy &amp; Practical</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">} </text:span><text:span text:style-name="T34">=&gt; Handy &amp; </text:span><text:span text:style-name="T34">Practical</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27846,30 +27846,30 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr52" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Kenapa </text:span><text:span text:style-name="T18">Memilih </text:span><text:span text:style-name="T18">Ruby?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Kenapa Memilih </text:span><text:span text:style-name="T18">Ruby?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr53" draw:text-style-name="P26" draw:layer="layout" svg:width="26.506cm" svg:height="13.467cm" svg:x="0.694cm" svg:y="3.501cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">PracticalThing::Ruby.c</text:span><text:span text:style-name="T15">an_do(:you)</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">PracticalThing::Ruby.can_do(:you)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">=&gt; {</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">a: “</text:span><text:span text:style-name="T35">Full-stack web </text:span><text:span text:style-name="T35">development</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">b: “</text:span><text:span text:style-name="T28">Web scraping &amp; </text:span><text:span text:style-name="T28">crawling</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">c: “</text:span><text:span text:style-name="T28">Static website </text:span><text:span text:style-name="T28">generators</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">d: “</text:span><text:span text:style-name="T28">Automation, </text:span><text:span text:style-name="T28">Backup, &amp; DevOps </text:span><text:span text:style-name="T28">tools</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">e: “</text:span><text:span text:style-name="T28">Build your own </text:span><text:span text:style-name="T28">servers</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">f: “</text:span><text:span text:style-name="T28">Parsing data, </text:span><text:span text:style-name="T28">cleaning &amp; filtering</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">g: “</text:span><text:span text:style-name="T28">API clients (like </text:span><text:span text:style-name="T28">Twitter’s or </text:span><text:span text:style-name="T28">GitHub’s)</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">h: “</text:span><text:span text:style-name="T28">Report generators </text:span><text:span text:style-name="T28">(PDF, HTML, CSV, </text:span><text:span text:style-name="T28">SpreadSheet)</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">i: “</text:span><text:span text:style-name="T28">Command-line </text:span><text:span text:style-name="T28">tools</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">j: “</text:span><text:span text:style-name="T28">Games (gosu, </text:span><text:span text:style-name="T28">Ruby2D, etc.)</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">a: “</text:span><text:span text:style-name="T35">Full-stack web development</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">b: “</text:span><text:span text:style-name="T28">Web scraping &amp; crawling</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">c: “</text:span><text:span text:style-name="T28">Static website generators</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">d: “</text:span><text:span text:style-name="T28">Automation, Backup, &amp; DevOps </text:span><text:span text:style-name="T28">tools</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">e: “</text:span><text:span text:style-name="T28">Build your own servers</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">f: “</text:span><text:span text:style-name="T28">Parsing data, cleaning &amp; </text:span><text:span text:style-name="T28">filtering</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">g: “</text:span><text:span text:style-name="T28">API clients (like Twitter’s </text:span><text:span text:style-name="T28">or GitHub’s)</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">h: “</text:span><text:span text:style-name="T28">Report generators (PDF, HTML, </text:span><text:span text:style-name="T28">CSV, SpreadSheet)</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">i: “</text:span><text:span text:style-name="T28">Command-line tools</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">j: “</text:span><text:span text:style-name="T28">Games (gosu, Ruby2D, etc.)</text:span><text:span text:style-name="T15">”</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">h: “</text:span><text:span text:style-name="T28">Data Science</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">l: “</text:span><text:span text:style-name="T28">Machine Learning &amp; </text:span><text:span text:style-name="T28">AI</text:span><text:span text:style-name="T15">” }</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">l: “</text:span><text:span text:style-name="T28">Machine Learning &amp; AI</text:span><text:span text:style-name="T15">” }</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr54" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - </text:span><text:span text:style-name="T21">https://www.rubyguides.com/2019/11/what-can-</text:span><text:span text:style-name="T21">you-do-with-ruby/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - https://www.rubyguides.com/2019/11/</text:span><text:span text:style-name="T21">what-can-you-do-with-ruby/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27883,7 +27883,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr55" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s </text:span><text:span text:style-name="T18">new on Ruby </text:span><text:span text:style-name="T18">2.7?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s new on </text:span><text:span text:style-name="T18">Ruby 2.7?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr56" draw:text-style-name="P26" draw:layer="layout" svg:width="26.506cm" svg:height="12.523cm" svg:x="0.694cm" svg:y="3.501cm">
@@ -27891,19 +27891,19 @@
       <text:p text:style-name="P21"><text:span text:style-name="T15">Ruby.whats_new?(2.7)</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T15">=&gt; {</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T17">a: “</text:span><text:span text:style-name="T35">Enumerable#tally</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">b: “</text:span><text:span text:style-name="T35">Numbered params </text:span><text:span text:style-name="T35">for Blocks </text:span><text:span text:style-name="T35">[Experimental]</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">c: </text:span><text:span text:style-name="T15">“</text:span><text:span text:style-name="T28">Array#intersection</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">d: </text:span><text:span text:style-name="T17">“</text:span><text:span text:style-name="T35">Enumerable#filter_map</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">e: </text:span><text:span text:style-name="T15">“</text:span><text:span text:style-name="T28">Enumerator#produce</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">f: “</text:span><text:span text:style-name="T28">IRB gets a face </text:span><text:span text:style-name="T28">lift</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">g: “</text:span><text:span text:style-name="T28">Ruby patern </text:span><text:span text:style-name="T28">matching </text:span><text:span text:style-name="T28">[Experimental]</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T15">h: “</text:span><text:span text:style-name="T28">10x performance  </text:span><text:span text:style-name="T28">for fiber &amp; thread </text:span><text:span text:style-name="T28">creattoin</text:span><text:span text:style-name="T15">”</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T17">i: “</text:span><text:span text:style-name="T36">Others changes, </text:span><text:span text:style-name="T36">*</text:span><text:span text:style-name="T12">go to source</text:span><text:span text:style-name="T15">” }</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">b: “</text:span><text:span text:style-name="T35">Numbered params for Blocks </text:span><text:span text:style-name="T35">[Experimental]</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">c: “</text:span><text:span text:style-name="T28">Array#intersection</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">d: “</text:span><text:span text:style-name="T35">Enumerable#filter_map</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">e: “</text:span><text:span text:style-name="T28">Enumerator#produce</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">f: “</text:span><text:span text:style-name="T28">IRB gets a face lift</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">g: “</text:span><text:span text:style-name="T28">Ruby patern matching </text:span><text:span text:style-name="T28">[Experimental]</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T15">h: “</text:span><text:span text:style-name="T28">10x performance  for fiber &amp; </text:span><text:span text:style-name="T28">thread creattoin</text:span><text:span text:style-name="T15">”</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T17">i: “</text:span><text:span text:style-name="T36">Others changes, *</text:span><text:span text:style-name="T12">go to source</text:span><text:span text:style-name="T15">” }</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr57" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - </text:span><text:span text:style-name="T21">https://www.rubyguides.com/2019/12/ruby-2-7-</text:span><text:span text:style-name="T21">new-features/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - https://www.rubyguides.com/2019/12/</text:span><text:span text:style-name="T21">ruby-2-7-new-features/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -27917,12 +27917,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr58" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s </text:span><text:span text:style-name="T18">new on Ruby </text:span><text:span text:style-name="T18">2.7?</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s new on </text:span><text:span text:style-name="T18">Ruby 2.7?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr59" draw:text-style-name="P28" draw:layer="layout" svg:width="27.805cm" svg:height="0.679cm" svg:x="0.195cm" svg:y="18.802cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - </text:span><text:span text:style-name="T21">https://www.rubyguides.com/2019/12/ruby-2-7-</text:span><text:span text:style-name="T21">new-features/</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuide – Jesus Castello - https://www.rubyguides.com/2019/12/</text:span><text:span text:style-name="T21">ruby-2-7-new-features/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -27949,17 +27949,17 @@
      </draw:custom-shape>
      <draw:frame draw:style-name="gr61" draw:text-style-name="P33" draw:layer="layout" svg:width="24.8cm" svg:height="1.453cm" svg:x="1.601cm" svg:y="5.04cm">
       <draw:text-box>
-       <text:p text:style-name="P31"><text:span text:style-name="T33"> <text:s/></text:span><text:span text:style-name="T33">Ruby NEVER </text:span><text:span text:style-name="T33">STOPS Improving!</text:span></text:p>
+       <text:p text:style-name="P31"><text:span text:style-name="T33"> <text:s/></text:span><text:span text:style-name="T33">Ruby NEVER STOPS </text:span><text:span text:style-name="T33">Improving!</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
     <draw:frame draw:style-name="gr62" draw:text-style-name="P34" draw:layer="layout" svg:width="25.6cm" svg:height="6.279cm" svg:x="1cm" svg:y="9.3cm">
      <draw:text-box>
-      <text:p text:style-name="P24"><text:span text:style-name="T15">Now, according to </text:span><text:span text:style-name="T15">Matz…</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T15">Now, according to Matz…</text:span></text:p>
       <text:p text:style-name="P24"><text:span text:style-name="T15"/></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T37">This is the </text:span><text:span text:style-name="T37">last 2.x </text:span><text:span text:style-name="T37">version </text:span><text:span text:style-name="T37">release.</text:span></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T37">Because next </text:span><text:span text:style-name="T37">year,</text:span></text:p>
-      <text:p text:style-name="P24"><text:span text:style-name="T37">we’re getting </text:span><text:span text:style-name="T38">Ruby 3.0</text:span><text:span text:style-name="T37">!</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T37">This is the last 2.x </text:span><text:span text:style-name="T37">version release.</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T37">Because next year,</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T37">we’re getting </text:span><text:span text:style-name="T38">Ruby </text:span><text:span text:style-name="T38">3.0</text:span><text:span text:style-name="T37">!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28192,7 +28192,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr90" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Workin</text:span><text:span text:style-name="T13">g with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">String </text:span><text:span text:style-name="T14">(a)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -28207,7 +28207,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr91" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Workin</text:span><text:span text:style-name="T13">g with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">String </text:span><text:span text:style-name="T14">(b)</text:span><text:span text:style-name="T13"> </text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -28222,7 +28222,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr92" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Workin</text:span><text:span text:style-name="T13">g with</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Working </text:span><text:span text:style-name="T13">with</text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">Number</text:span></text:p>
      </draw:text-box>
     </draw:frame>
@@ -28237,8 +28237,8 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr93" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Compar</text:span><text:span text:style-name="T14">ison</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">Operato</text:span><text:span text:style-name="T14">rs</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Compariso</text:span><text:span text:style-name="T14">n</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">Operators</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28252,8 +28252,8 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr94" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Branch</text:span><text:span text:style-name="T14">ing</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">/Condit</text:span><text:span text:style-name="T14">ion</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Branching</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T14"><text:s/></text:span><text:span text:style-name="T14">/Condition</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28267,7 +28267,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr95" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Collec</text:span><text:span text:style-name="T14">tion</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Collectio</text:span><text:span text:style-name="T14">n</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28281,7 +28281,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr96" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Loopin</text:span><text:span text:style-name="T14">g</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Looping</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28309,7 +28309,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr98" draw:text-style-name="P48" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
      <draw:text-box>
-      <text:p text:style-name="P47"><text:span text:style-name="T62"><text:s/></text:span><text:span text:style-name="T62">EXTEND</text:span><text:span text:style-name="T62">ED <text:s/></text:span></text:p>
+      <text:p text:style-name="P47"><text:span text:style-name="T62"><text:s/></text:span><text:span text:style-name="T62">EXTENDED </text:span><text:span text:style-name="T62"><text:s/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28323,7 +28323,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr99" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">File </text:span><text:span text:style-name="T14">IO</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">File IO</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28337,7 +28337,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr100" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Error </text:span><text:span text:style-name="T14">Handlin</text:span><text:span text:style-name="T14">g</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Error </text:span><text:span text:style-name="T14">Handling</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -28351,8 +28351,8 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr101" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T13">.Object </text:span><text:span text:style-name="T13">Oriente</text:span><text:span text:style-name="T13">d</text:span></text:p>
-      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Program</text:span><text:span text:style-name="T13">ming</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13">.Object </text:span><text:span text:style-name="T13">Oriented</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T13"><text:s/></text:span><text:span text:style-name="T13">Programmin</text:span><text:span text:style-name="T13">g</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
