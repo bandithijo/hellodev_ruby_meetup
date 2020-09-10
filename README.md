@@ -130,7 +130,7 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
 
 ## 📽️ SLIDE
 
-1. [HandOut](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
+1. [HandOut (PDF)](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
 
 <br>
 
