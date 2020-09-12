@@ -8,7 +8,7 @@ layout: default
 
 🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
 
-🎟️ :  **Sorry, Werve CLOSED**
+🎟️ :  **Sorry, We're CLOSED**
 
 ## 📑 HANDOUT
 
