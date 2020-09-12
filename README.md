@@ -17,7 +17,7 @@ Materi-materi pada handout ini, masih akan saya lengkapi.
 
 1. ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](https://github.com/bandithijo/hellodev_ruby_meetup/raw/master/presentation/hellodev_ruby-for-beginner_handout.pdf)
 
-**Terakhir diperbaharui**: 2020/09/12 09:24
+**Terakhir diperbaharui**: 2020/09/12
 
 <br>
 
