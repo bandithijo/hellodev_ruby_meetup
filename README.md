@@ -8,15 +8,15 @@ layout: default
 
 🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
 
-🎟️ :  **Sorry, We're CLOSED**
+🎟️ :  **Sorry, We've CLOSED**
 
-## 📽️ HANDOUT
+## 📑 HANDOUT
 
 **Catatan**: <br>
 HandOut ini masih akan terus diperbaharui.<br>
 Materi-materi yang ada di dalamnya masih akan terus saya lengkapi.
 
-1. ⬇️ [<mark><b>HandOut</b> (PDF) </mark>](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
+1. ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
 
 **Terakhir diperbaharui**: 2020/09/12 09:24
 
