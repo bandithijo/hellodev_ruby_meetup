@@ -15,7 +15,7 @@ layout: default
 **Catatan**: <br>
 Materi-materi pada handout ini, masih akan saya lengkapi.
 
-1. ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
+1. ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](https://github.com/bandithijo/hellodev_ruby_meetup/blob/master/presentation/hellodev_ruby-for-beginner_handout.pdf)
 
 **Terakhir diperbaharui**: 2020/09/12 09:24
 
