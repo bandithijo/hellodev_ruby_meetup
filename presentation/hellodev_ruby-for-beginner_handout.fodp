@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-12T09:23:20.785896064</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P2DT1H9M10S</meta:editing-duration><meta:editing-cycles>523</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="394"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-12T10:09:28.838994220</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P2DT1H9M39S</meta:editing-duration><meta:editing-cycles>524</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="394"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">9327</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">44</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">43</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -100,7 +100,7 @@
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">nwH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">nwH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
@@ -16749,7 +16749,7 @@
   <draw:stroke-dash draw:name="Long_20_Dash" draw:display-name="Long Dash" draw:style="rect" draw:dots1="1" draw:dots1-length="600%" draw:distance="300%"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="id" fo:country="ID" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -17965,7 +17965,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr204" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.745cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.426cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr205" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
@@ -17997,7 +17997,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr212" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="3.745cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.426cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr213" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
@@ -29683,7 +29683,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">0</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">1</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; 2</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr205" draw:text-style-name="P38" draw:layer="layout" svg:width="12.897cm" svg:height="5.697cm" svg:x="13.991cm" svg:y="13.303cm">
@@ -29692,7 +29692,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">0</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">1</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; 2</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -29706,12 +29706,12 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr206" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Upto </text:span><text:span text:style-name="T18">&amp; </text:span><text:span text:style-name="T18">Downto</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Upto &amp; Downto</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr207" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.901cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T69">Salah satu method </text:span><text:span text:style-name="T69">yang mudah untuk </text:span><text:span text:style-name="T69">melakukan looping / </text:span><text:span text:style-name="T69">perulangan terhadap </text:span><text:span text:style-name="T69">angka dengan </text:span><text:span text:style-name="T69">rentang tertentu.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T69">Salah satu method yang mudah untuk melakukan looping / perulangan terhadap angka dengan rentang tertentu.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr208" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="0.803cm" svg:y="4.904cm">
@@ -29732,13 +29732,13 @@
     </draw:frame>
     <draw:frame draw:style-name="gr210" draw:text-style-name="P38" draw:layer="layout" svg:width="12.9cm" svg:height="6.451cm" svg:x="14.001cm" svg:y="6.205cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">&gt; </text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">.down</text:span><text:span text:style-name="T52">to(</text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">).</text:span><text:span text:style-name="T52">each </text:span><text:span text:style-name="T52">do</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">* <text:s text:c="2"/></text:span><text:span text:style-name="T52">puts </text:span><text:span text:style-name="T57">‘Hello</text:span><text:span text:style-name="T57">Dev’</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">&gt; </text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">.downto(</text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">).each do</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">* <text:s text:c="2"/>puts </text:span><text:span text:style-name="T57">‘HelloDev’</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">* end</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr211" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="13.803cm" svg:y="4.905cm">
