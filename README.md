@@ -13,7 +13,7 @@ layout: default
 ## 📑 HANDOUT
 
 **Catatan**: <br>
-HandOut ini masih akan terus diperbaharui.<br>
+Presentation Handout ini masih akan terus diperbaharui.<br>
 Materi-materi yang ada di dalamnya masih akan terus saya lengkapi.
 
 1. ⬇️ [<mark><b>Presentation Handout</b> (PDF) </mark>](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
