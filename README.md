@@ -4,15 +4,27 @@ layout: default
 
 # HelloDev Online Meetup: <br>💎 Ruby for Beginner
 
-⏰ : **Jum'at, 11 September 2020** - **20.00 WITA**
+⏰ : ~~**Jum'at, 11 September 2020** - **20.00 WITA**~~
 
 🗣 : **Rizqi Nur Assyaufi** [@BanditHijo](https://bandithijo.github.io)
 
-🎟️ : [bit.ly/ruby-for-beginner-hello-dev](http://bit.ly/ruby-for-beginner-hello-dev)
+🎟️ :  **Sorry, We're CLOSED**
+
+## 📽️ HANDOUT
+
+**Catatan**: <br>
+HandOut ini masih akan terus diperbaharui.<br>
+Materi-materi yang ada di dalamnya masih akan terus saya lengkapi.
+
+1. [<mark><b>HandOut</b> (PDF) </mark>](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
+
+
+<br>
 
 ## 📦 REQUIREMENTS
 
-Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti kelas.
+<details markdown="1">
+  <summary style="cursor:pointer;">Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti kelas.</summary>
 
 01. **Memasang Ruby (programming language) terlebih dahulu (versi 2.7.1)**
     - Ubuntu & macOS dapat merujuk ke [https://gorails.com/setup](https://gorails.com/setup)<br>
@@ -26,6 +38,8 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
     - VSCode (boleh pasang ekstension ruby-rubocop untuk Ruby linter)
     - Vim (boleh pasang plugin vim-rubocop untuk Ruby linter)
 
+</details>
+
 <br>
 
 ## 🗃️ TOPICS
@@ -34,30 +48,30 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
   <summary style="cursor:pointer;">Topik yang akan dibicarakan meliputi: *<i>click to open</i></summary>
 
 01. **Introduction to Ruby Lang**
-    - [ ] Sedikit tentang Ruby?
-    - [ ] Is Ruby dead programming language?
-    - [ ] Kenapa memilih Ruby?
-    - [ ] Apa yang baru dari Ruby 2.7?
-    - [ ] Tips memasang Ruby untuk developer?
-    - [ ] Bagaimana menulis kode & menjalankannya?<br>
+    - [x] Sedikit tentang Ruby?
+    - [x] Is Ruby dead programming language?
+    - [x] Kenapa memilih Ruby?
+    - [x] Apa yang baru dari Ruby 2.7?
+    - [x] Tips memasang Ruby untuk developer?
+    - [x] Bagaimana menulis kode & menjalankannya?<br>
           (dengan Text Editor & IRB: comment, variable, puts, p, & print)
 02. **Variable**
-    - [ ] Apa itu variable?
-    - [ ] Scope/jangkauan dari variable?
+    - [x] Apa itu variable?
+    - [x] Scope/jangkauan dari variable?
 03. **Working with String(a)**
-    - [ ] String concatenation
-    - [ ] String interpolation
-    - [ ] Mengecek method-method yang tersedia untuk string<br>
+    - [x] String concatenation
+    - [x] String interpolation
+    - [x] Mengecek method-method yang tersedia untuk string<br>
           (Demokan method yang umum digunakan)
-    - [ ] Escaping character
-    - [ ] Common string manipulation with strip & split
+    - [x] Escaping character
+    - [x] Common string manipulation with strip & split
 04. **Working with String(b)**
-    - [ ] Getting input from user
+    - [x] Getting input from user
 05. **Working with Number**
-    - [ ] Order of arithmetic operation
-    - [ ] Penjumlahan, Pengurangan, Perkalian, Pembagian, Modulus, etc.
-    - [ ] Methods (introduction)
-    - [ ] Times
+    - [x] Arithmetic operation
+    - [x] Order of arithmetic operation
+    - [x] Times
+    - [ ] Upto Downto
 06. **Comparison operators**
     - [ ] Show the common comparison operators & methods for comparison
     - [ ] Boolean
@@ -128,12 +142,6 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
 
 <br>
 
-## 📽️ SLIDE
-
-1. [HandOut (PDF)](https://raw.githubusercontent.com/bandithijo/hellodev_ruby_meetup/master/presentation/main.pdf)
-
-<br>
-
 ## 📚 REFERENCES
 
 1. [Agung Setiawan - Ruby on Rails Online Course](https://idrails.com/)<br>
@@ -152,12 +160,6 @@ Berikut ini adalah beberapa kebutuhan yang perlu dipersiapkan sebelum mengikuti 
 ## 🏗️ SUPPORTED BY
 
 1. [**DILo Balikpapan**]()
-
-## 📺 MEDIA PARTNER
-
-1. [**Tekno Event**](https://www.instagram.com/teknoevent/)
-
-2. [**OUR**]()
 
 ## 🤝 ACKNOWLEDGMENT
 
