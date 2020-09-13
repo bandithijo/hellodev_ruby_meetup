@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-13T06:38:44.746975955</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P2DT1H38M54S</meta:editing-duration><meta:editing-cycles>552</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="403"/></office:meta>
+ <office:meta><meta:initial-creator>Rizqi Nur Assyaufi</meta:initial-creator><meta:creation-date>2020-09-08T07:14:57.089656681</meta:creation-date><dc:date>2020-09-13T21:30:49.058080487</dc:date><dc:creator>Rizqi Nur Assyaufi</dc:creator><meta:editing-duration>P2DT1H39M15S</meta:editing-duration><meta:editing-cycles>553</meta:editing-cycles><meta:generator>LibreOffice/6.4.6.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:object-count="403"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-5179</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">45</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">10</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
@@ -17132,42 +17132,39 @@
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_8" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
   <style:style style:name="dp8" style:family="drawing-page">
-   <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
-  </style:style>
-  <style:style style:name="dp9" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_6" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp10" style:family="drawing-page">
+  <style:style style:name="dp9" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_7" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp11" style:family="drawing-page">
+  <style:style style:name="dp10" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_9" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp12" style:family="drawing-page">
+  <style:style style:name="dp11" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_10" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp13" style:family="drawing-page">
+  <style:style style:name="dp12" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_11" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp14" style:family="drawing-page">
+  <style:style style:name="dp13" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_12" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp15" style:family="drawing-page">
+  <style:style style:name="dp14" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_13" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp16" style:family="drawing-page">
+  <style:style style:name="dp15" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_14" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp17" style:family="drawing-page">
+  <style:style style:name="dp16" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_15" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp18" style:family="drawing-page">
+  <style:style style:name="dp17" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_16" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp19" style:family="drawing-page">
+  <style:style style:name="dp18" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_17" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
-  <style:style style:name="dp20" style:family="drawing-page">
+  <style:style style:name="dp19" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" draw:fill="bitmap" draw:fill-image-name="Bitmap_20_18" style:repeat="stretch" presentation:display-footer="true" presentation:display-page-number="false" presentation:display-date-time="true"/>
   </style:style>
   <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
@@ -17472,7 +17469,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr80" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.551cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr81" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
@@ -17480,7 +17477,7 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr82" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.949cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.326cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr83" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
@@ -17488,15 +17485,15 @@
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr84" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.949cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.551cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr85" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.649cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Long_20_Dash" svg:stroke-color="#ffffff" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.776cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr86" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
-   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="0.949cm" fo:min-width="0cm"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.551cm" fo:min-width="0cm"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="gr87" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L3">
@@ -18331,59 +18328,55 @@
    <style:text-properties fo:color="#ffffff" fo:font-size="18pt" fo:letter-spacing="normal"/>
   </style:style>
   <style:style style:name="P39" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties fo:color="#ffffff"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#cc342d" fo:font-size="18pt" fo:letter-spacing="normal"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph">
+  <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="18pt" fo:letter-spacing="normal" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph">
+  <style:style style:name="P41" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#ffffff" style:font-name="JetBrainsMono Nerd Font1" fo:font-size="72pt" fo:font-weight="bold" style:font-size-asian="72pt" style:font-weight-asian="bold" style:font-size-complex="72pt" style:font-weight-complex="bold" fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph">
+  <style:style style:name="P42" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#ffffff" style:font-name="JetBrainsMono Nerd Font1" fo:font-size="18pt" fo:letter-spacing="normal"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph">
+  <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph">
+  <style:style style:name="P44" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#c9211e" style:font-name="JetBrainsMono Nerd Font1" fo:font-size="72pt" fo:font-weight="bold" fo:background-color="#ffffff" style:font-size-asian="72pt" style:font-weight-asian="bold" style:font-size-complex="72pt" style:font-weight-complex="bold" fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph">
+  <style:style style:name="P45" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph">
+  <style:style style:name="P46" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties style:font-name="JetBrainsMono Nerd Font1"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph">
+  <style:style style:name="P47" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#cc342d" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph">
+  <style:style style:name="P48" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#ffffff" style:font-name="JetBrainsMono Nerd Font1" fo:font-size="15pt" fo:font-weight="bold" style:font-size-asian="15pt" style:font-weight-asian="bold" style:font-size-complex="15pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph">
+  <style:style style:name="P49" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#cc342d" style:font-name="JetBrainsMono Nerd Font1" fo:font-size="72pt" fo:font-weight="bold" fo:background-color="#ffffff" style:font-size-asian="72pt" style:font-weight-asian="bold" style:font-size-complex="72pt" style:font-weight-complex="bold" fo:hyphenate="false" loext:hyphenation-no-caps="false"/>
@@ -18880,7 +18873,7 @@
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>46</text:page-number></text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="1cm" svg:y="2.898cm"/>
@@ -18891,7 +18884,6 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="20.05cm"/>
   </style:handout-master>
   <style:master-page style:name="Default" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="3.505cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
@@ -18910,11 +18902,10 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.447cm" svg:x="20.076cm" svg:y="19.13cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>46</text:page-number></text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Default-title" draw:layer="backgroundobjects" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Default-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -18936,7 +18927,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.113cm" svg:height="1.484cm" svg:x="11.886cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>46</text:page-number></text:span></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -28431,7 +28422,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page14" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr55" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s new on Ruby 2.7?</text:span></text:p>
@@ -28465,7 +28455,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page15" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr58" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; What’s new on Ruby 2.7?</text:span></text:p>
@@ -28521,7 +28510,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page16" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr63" draw:text-style-name="P34" draw:layer="layout" svg:width="25.6cm" svg:height="1.3cm" svg:x="1cm" svg:y="5.5cm">
      <draw:text-box>
       <text:p text:style-name="P24"><text:span text:style-name="T38">Basic GitHub Checkout</text:span><text:span text:style-name="T35"> way:</text:span></text:p>
@@ -28582,7 +28570,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page17" draw:style-name="dp7" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr70" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">IRB </text:span><text:span text:style-name="T51">(Interactive Ruby Shell)</text:span></text:p>
@@ -28596,7 +28583,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page18" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr71" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Apa itu IRB?</text:span></text:p>
@@ -28644,7 +28630,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page19" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr78" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Customisasi IRB</text:span></text:p>
@@ -28674,18 +28659,18 @@
     </draw:frame>
     <draw:frame draw:style-name="gr83" draw:text-style-name="P38" draw:layer="layout" svg:width="26.2cm" svg:height="1.801cm" svg:x="0.9cm" svg:y="9.5cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">$ irb –-prompt simple</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">&gt;&gt; _</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">$ irb –-prompt simple</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">&gt;&gt; _</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr84" draw:text-style-name="P37" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="11.902cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">Untuk membuat prompt “simple” menjadi </text:span><text:span text:style-name="T52">default yang digunakan, cukup tambahkan </text:span><text:span text:style-name="T52">pada file ~/.irbc (buka dengan text </text:span><text:span text:style-name="T52">editor).</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">Untuk membuat prompt “simple” menjadi default yang digunakan, cukup tambahkan pada file ~/.irbc (buka dengan text editor).</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr85" draw:text-style-name="P38" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="13.901cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">IRB.conf[:PROMPT_M</text:span><text:span text:style-name="T52">ODE] = :SIMPLE</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">IRB.conf[:PROMPT_MODE] = :SIMPLE</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr86" draw:text-style-name="P37" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="15.603cm">
@@ -28693,8 +28678,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">Nah, sekarang apabila teman-teman memanggil irb, maka otomatis akan menggunakan “simple” prompt.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <presentation:notes draw:style-name="dp8">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <presentation:notes draw:style-name="dp2">
      <draw:page-thumbnail draw:style-name="gr3" draw:layer="layout" svg:width="19.798cm" svg:height="11.136cm" svg:x="0.6cm" svg:y="2.257cm" draw:page-number="19" presentation:class="page"/>
      <draw:frame presentation:style-name="pr4" draw:text-style-name="P29" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -28702,7 +28686,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page20" draw:style-name="dp7" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr87" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Variabel</text:span></text:p>
@@ -28716,7 +28699,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page21" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr88" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Apa itu Variabel?</text:span></text:p>
@@ -28740,7 +28722,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">That&apos;s what variables do!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr91" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="5.676cm" svg:x="0.9cm" svg:y="12.301cm">
+    <draw:frame draw:style-name="gr91" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="5.676cm" svg:x="0.9cm" svg:y="12.301cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">nama_lengkap = </text:span><text:span text:style-name="T57">’Yukihiro Matsumoto’</text:span><text:span text:style-name="T52"> <text:s text:c="2"/>&lt;- String</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">tahun_lahir <text:s/>= </text:span><text:span text:style-name="T53">1995</text:span><text:span text:style-name="T52"> <text:s text:c="18"/>&lt;- Integer</text:span></text:p>
@@ -28759,13 +28741,12 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page22" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr92" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Mengecek Class dari Variabel</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr93" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr93" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Darimana kita tahu </text:span><text:span text:style-name="T60">variable</text:span><text:span text:style-name="T52"> tertentu termasuk dalam Class apa?</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -28795,7 +28776,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page23" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr95" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Scope/jangkauan Variabel?</text:span></text:p>
@@ -28806,52 +28786,52 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr97" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="6.5cm">
+    <draw:frame draw:style-name="gr97" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="6.5cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T60">Global variable (prefix: $)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr98" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="7.801cm">
+    <draw:frame draw:style-name="gr98" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="7.801cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">$team_name <text:s/>= </text:span><text:span text:style-name="T57">“Elite Global”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr99" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr99" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T60">Local variable</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr100" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="4.802cm">
+    <draw:frame draw:style-name="gr100" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="4.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">team_name <text:s text:c="2"/>= </text:span><text:span text:style-name="T57">“Elite Lokal”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr101" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="9.502cm">
+    <draw:frame draw:style-name="gr101" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="9.502cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T60">Instance variable (prefix: @)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr102" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="10.803cm">
+    <draw:frame draw:style-name="gr102" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="10.803cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">@fav_food <text:s text:c="2"/>= </text:span><text:span text:style-name="T57">“Indomie Instance”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr103" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="12.503cm">
+    <draw:frame draw:style-name="gr103" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="12.503cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T60">Class variable (prefix: @@)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr104" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="13.804cm">
+    <draw:frame draw:style-name="gr104" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="13.804cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">@@fav_drama = </text:span><text:span text:style-name="T57">“Itaewon Class”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr105" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="15.504cm">
+    <draw:frame draw:style-name="gr105" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="15.504cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T60">Constant variable (Huruf Besar)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr106" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="16.805cm">
+    <draw:frame draw:style-name="gr106" draw:text-style-name="P39" draw:layer="layout" svg:width="26.2cm" svg:height="1.026cm" svg:x="0.9cm" svg:y="16.805cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">PHI = </text:span><text:span text:style-name="T53">3.14</text:span></text:p>
      </draw:text-box>
@@ -28864,8 +28844,7 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page24" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr107" draw:text-style-name="P42" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
+    <draw:frame draw:style-name="gr107" draw:text-style-name="P41" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P24"><text:span text:style-name="T18">&gt; Scope/jangkauan Variabel?</text:span></text:p>
      </draw:text-box>
@@ -28899,8 +28878,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page25" draw:style-name="dp9" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page25" draw:style-name="dp8" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr111" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
@@ -28915,7 +28893,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page26" draw:style-name="dp5" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr112" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="6.261cm" svg:x="2.36cm" svg:y="9.5cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T32">&gt; String Concatenation</text:span></text:p>
@@ -28939,7 +28916,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page27" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr114" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -28950,7 +28926,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr116" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr116" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -28981,7 +28957,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page28" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr118" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -28992,7 +28967,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr120" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr120" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29019,7 +28994,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page29" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr122" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -29030,7 +29004,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr124" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr124" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29057,7 +29031,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page30" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr126" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -29068,7 +29041,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr128" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr128" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29104,7 +29077,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page31" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr131" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -29115,7 +29087,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2018/09/ruby-conversion-methods/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr133" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="4.393cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr133" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="4.393cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29130,7 +29102,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T57">&quot;nomor rumah = </text:span><text:span text:style-name="T52">\u</text:span><text:span text:style-name="T57">0001&quot;</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr135" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="11.102cm">
+    <draw:frame draw:style-name="gr135" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="11.102cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">Solusi:</text:span></text:p>
      </draw:text-box>
@@ -29141,7 +29113,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T57">&quot;nomor rumah = 1&quot;</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr137" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="14.802cm">
+    <draw:frame draw:style-name="gr137" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="14.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Menggunakan </text:span><text:span text:style-name="T60">to_s</text:span><text:span text:style-name="T52"> method untuk mengkonversi Integer ke String.</text:span></text:p>
      </draw:text-box>
@@ -29159,7 +29131,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page32" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr139" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Concatenation</text:span></text:p>
@@ -29170,7 +29141,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/2019/07/ruby-string-concatenation/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr141" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr141" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Combining multiple string</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29189,7 +29160,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T57">“</text:span><text:span text:style-name="T57">Matsumoto Yukihiro”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr143" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.576cm" svg:x="0.8cm" svg:y="13.802cm">
+    <draw:frame draw:style-name="gr143" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.576cm" svg:x="0.8cm" svg:y="13.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">If you&apos;re thinking there is an </text:span><text:span text:style-name="T60">append</text:span><text:span text:style-name="T69"> method,</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T69">well there isn&apos;t for String.</text:span><text:span text:style-name="T69"><text:line-break/></text:span><text:span text:style-name="T60">append</text:span><text:span text:style-name="T69"> method only for arrays.</text:span></text:p>
@@ -29203,7 +29174,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page33" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr144" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Interpolation</text:span></text:p>
@@ -29214,7 +29184,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: RubyGuides - https://www.rubyguides.com/ruby-tutorial/variables/</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr146" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="3.44cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr146" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="3.44cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Interpolation or merging of variables into strings is a powerful technique. It allows you to &quot;templatize&quot; a string.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29231,7 +29201,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T57">“</text:span><text:span text:style-name="T57">Nama: Yukihiro Matsumoto. Umur: 55”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr148" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="12.802cm">
+    <draw:frame draw:style-name="gr148" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="12.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">Syarat: </text:span><text:span text:style-name="T69">String harus menggunakan tanda petik ganda (“...”)</text:span></text:p>
      </draw:text-box>
@@ -29244,13 +29214,12 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page34" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr149" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Mengecek Method pada Class</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr150" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.101cm">
+    <draw:frame draw:style-name="gr150" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.665cm" svg:x="0.8cm" svg:y="3.101cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Darimana kita tahu </text:span><text:span text:style-name="T60">method</text:span><text:span text:style-name="T52"> apa yang tersedia dari sebuah Class?</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T60"/></text:p>
@@ -29267,12 +29236,12 @@
       <text:p text:style-name="P11"><text:span text:style-name="T70">=&gt;[ :unicode_normalize, :unicode_normalize!, :ascii_only?, :unpack, :unpack1, :to_r, :shellsplit, :encode, :encode!, :shellescape, :%, :include?, :*, :+, :pretty_print, ..., ..., ... ]</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr152" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="13.302cm">
+    <draw:frame draw:style-name="gr152" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="13.302cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Berapa banyak jumlah method yang tersedia? (misal: String)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr153" draw:text-style-name="P43" draw:layer="layout" svg:width="26.2cm" svg:height="4.126cm" svg:x="0.9cm" svg:y="14.502cm">
+    <draw:frame draw:style-name="gr153" draw:text-style-name="P42" draw:layer="layout" svg:width="26.2cm" svg:height="4.126cm" svg:x="0.9cm" svg:y="14.502cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T70">&gt;&gt; nama.class</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T71">String</text:span></text:p>
@@ -29289,14 +29258,13 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page35" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr154" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Method yang Biasa </text:span></text:p>
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">Digunakan</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr155" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="4.601cm">
+    <draw:frame draw:style-name="gr155" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.8cm" svg:y="4.601cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.upcase() <text:s text:c="22"/>.downcase()</text:span></text:p>
      </draw:text-box>
@@ -29308,7 +29276,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T57">“YUKIHIRO MATSUMOTO”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr157" draw:text-style-name="P41" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.801cm" svg:y="12.802cm">
+    <draw:frame draw:style-name="gr157" draw:text-style-name="P40" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.801cm" svg:y="12.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.length()</text:span></text:p>
      </draw:text-box>
@@ -29327,7 +29295,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T67">“yukihiro matsumoto”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr160" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="8.703cm">
+    <draw:frame draw:style-name="gr160" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="8.703cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.capitalize() <text:s text:c="18"/>.reverse()</text:span></text:p>
      </draw:text-box>
@@ -29359,7 +29327,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page36" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr164" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="3.689cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; String Method yang Biasa </text:span></text:p>
@@ -29373,12 +29340,12 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T67">“Bayu Bayu Bayu”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr166" draw:text-style-name="P41" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.801cm" svg:y="16.802cm">
+    <draw:frame draw:style-name="gr166" draw:text-style-name="P40" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.801cm" svg:y="16.802cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">dan masih banyak lagi...</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr167" draw:text-style-name="P41" draw:layer="layout" svg:width="12.998cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="8.703cm">
+    <draw:frame draw:style-name="gr167" draw:text-style-name="P40" draw:layer="layout" svg:width="12.998cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="8.703cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.strip()</text:span></text:p>
      </draw:text-box>
@@ -29395,7 +29362,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">More: Ruby-Doc - https://ruby-doc.org/core-2.7.0/String.html</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr170" draw:text-style-name="P41" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="4.603cm">
+    <draw:frame draw:style-name="gr170" draw:text-style-name="P40" draw:layer="layout" svg:width="12.999cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="4.603cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.sub()</text:span></text:p>
      </draw:text-box>
@@ -29407,7 +29374,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; </text:span><text:span text:style-name="T57">“Yukihiro Akita”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr172" draw:text-style-name="P41" draw:layer="layout" svg:width="4.2cm" svg:height="1.115cm" svg:x="14.5cm" svg:y="4.602cm">
+    <draw:frame draw:style-name="gr172" draw:text-style-name="P40" draw:layer="layout" svg:width="4.2cm" svg:height="1.115cm" svg:x="14.5cm" svg:y="4.602cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.gsub()</text:span></text:p>
      </draw:text-box>
@@ -29419,7 +29386,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">=&gt; [</text:span><text:span text:style-name="T67">“Budi”</text:span><text:span text:style-name="T52">,</text:span><text:span text:style-name="T67"> “Budi”</text:span><text:span text:style-name="T52">, </text:span><text:span text:style-name="T67">“Bayu”</text:span><text:span text:style-name="T52">]</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr174" draw:text-style-name="P41" draw:layer="layout" svg:width="4.2cm" svg:height="1.115cm" svg:x="14.501cm" svg:y="8.703cm">
+    <draw:frame draw:style-name="gr174" draw:text-style-name="P40" draw:layer="layout" svg:width="4.2cm" svg:height="1.115cm" svg:x="14.501cm" svg:y="8.703cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.split()</text:span></text:p>
      </draw:text-box>
@@ -29432,13 +29399,12 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page37" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr175" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Escaping Character</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr176" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
+    <draw:frame draw:style-name="gr176" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="3.101cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Bagaimana cara melakukan escaping character pada String?</text:span></text:p>
      </draw:text-box>
@@ -29452,7 +29418,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T67">“</text:span><text:span text:style-name="T67">malam jum’at”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr178" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.801cm" svg:y="9.102cm">
+    <draw:frame draw:style-name="gr178" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.801cm" svg:y="9.102cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Alternatif gunakan </text:span><text:span text:style-name="T60">double</text:span><text:span text:style-name="T69"> quote untuk escaping </text:span><text:span text:style-name="T60">single</text:span><text:span text:style-name="T69"> quote:</text:span></text:p>
      </draw:text-box>
@@ -29463,7 +29429,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T67">“</text:span><text:span text:style-name="T67">malam jum’at”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr180" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.802cm" svg:y="12.603cm">
+    <draw:frame draw:style-name="gr180" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.802cm" svg:y="12.603cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Contoh-contoh escaping character</text:span></text:p>
      </draw:text-box>
@@ -29498,8 +29464,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page38" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page38" draw:style-name="dp9" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr184" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
@@ -29514,7 +29479,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page39" draw:style-name="dp5" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr185" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="4.2cm" svg:x="2.36cm" svg:y="9.5cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T32">&gt; Get Input from User (Console) </text:span></text:p>
@@ -29534,7 +29498,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page40" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr187" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Get Input from User </text:span><text:span text:style-name="T73">(Console)</text:span></text:p>
@@ -29545,7 +29508,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.1/IO.html</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr189" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.538cm" svg:x="0.8cm" svg:y="3.501cm">
+    <draw:frame draw:style-name="gr189" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.538cm" svg:x="0.8cm" svg:y="3.501cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T52">Ruby use </text:span><text:span text:style-name="T60">gets</text:span><text:span text:style-name="T52"> method to get the user input (as a string).</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T74"><text:s/></text:span></text:p>
@@ -29560,13 +29523,13 @@
       <text:p text:style-name="P11"><text:span text:style-name="T75">=&gt; </text:span><text:span text:style-name="T76">“</text:span><text:span text:style-name="T67">Yukihiro</text:span><text:span text:style-name="T52">\n</text:span><text:span text:style-name="T67">”</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr191" draw:text-style-name="P41" draw:layer="layout" svg:width="26.2cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="9.702cm">
+    <draw:frame draw:style-name="gr191" draw:text-style-name="P40" draw:layer="layout" svg:width="26.2cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="9.702cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">“</text:span><text:span text:style-name="T69">\n” didapatkan saat kita menekan tombol enter.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Bagaimana cara mengilangkannya?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr192" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="2.099cm" svg:x="0.801cm" svg:y="12.302cm">
+    <draw:frame draw:style-name="gr192" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="2.099cm" svg:x="0.801cm" svg:y="12.302cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Gunakan </text:span><text:span text:style-name="T60">String#chomp</text:span><text:span text:style-name="T69"> method.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.gets.chomp</text:span></text:p>
@@ -29588,7 +29551,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page41" draw:style-name="dp7" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr194" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.Working with</text:span></text:p>
@@ -29603,7 +29565,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page42" draw:style-name="dp5" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr195" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.059cm" svg:x="2.36cm" svg:y="9.5cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T32">&gt; Arithmetic Operation</text:span></text:p>
@@ -29626,7 +29587,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page43" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr197" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Arithmetic Operation</text:span></text:p>
@@ -29637,7 +29597,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.1/IO.html</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr199" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="2.901cm">
+    <draw:frame draw:style-name="gr199" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.026cm" svg:x="0.8cm" svg:y="2.901cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Nothing new here…</text:span></text:p>
      </draw:text-box>
@@ -29682,7 +29642,6 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page44" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr202" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Order Arithmetic Operation</text:span></text:p>
@@ -29693,7 +29652,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T21">Source: Ruby-Doc - https://ruby-doc.org/core-2.7.1/IO.html</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr204" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="10.083cm" svg:x="0.8cm" svg:y="2.901cm">
+    <draw:frame draw:style-name="gr204" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="10.083cm" svg:x="0.8cm" svg:y="2.901cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Perhatikan urutan dari pengerjaan operator.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T69"/></text:p>
@@ -29715,18 +29674,17 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page45" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr205" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Loop with times</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr206" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.901cm">
+    <draw:frame draw:style-name="gr206" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.901cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T69">Salah satu method yang mudah untuk melakukan looping / perulangan terhadap angka.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr207" draw:text-style-name="P41" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="4.903cm">
+    <draw:frame draw:style-name="gr207" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="0.802cm" svg:y="4.903cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.times</text:span></text:p>
      </draw:text-box>
@@ -29751,7 +29709,7 @@
       <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr210" draw:text-style-name="P41" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="13.802cm" svg:y="4.904cm">
+    <draw:frame draw:style-name="gr210" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="13.802cm" svg:y="4.904cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.times (one line)</text:span></text:p>
      </draw:text-box>
@@ -29784,25 +29742,24 @@
     </presentation:notes>
    </draw:page>
    <draw:page draw:name="page46" draw:style-name="dp5" draw:master-page-name="Default">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame draw:style-name="gr213" draw:text-style-name="P25" draw:layer="layout" svg:width="26.681cm" svg:height="2.133cm" svg:x="0.719cm" svg:y="0.667cm">
      <draw:text-box>
-      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Upto </text:span><text:span text:style-name="T18">&amp; </text:span><text:span text:style-name="T18">Downto</text:span></text:p>
+      <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Upto &amp; Downto</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr214" draw:text-style-name="P41" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.901cm">
+    <draw:frame draw:style-name="gr214" draw:text-style-name="P40" draw:layer="layout" svg:width="25.8cm" svg:height="1.801cm" svg:x="0.8cm" svg:y="2.901cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T69">Salah satu method </text:span><text:span text:style-name="T69">yang mudah untuk </text:span><text:span text:style-name="T69">melakukan looping / </text:span><text:span text:style-name="T69">perulangan terhadap </text:span><text:span text:style-name="T69">angka dengan </text:span><text:span text:style-name="T69">rentang tertentu.</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T69">Salah satu method yang mudah untuk melakukan looping / perulangan terhadap angka dengan rentang tertentu.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr215" draw:text-style-name="P41" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="0.803cm" svg:y="4.904cm">
+    <draw:frame draw:style-name="gr215" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="0.803cm" svg:y="4.904cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.upto().each</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr216" draw:text-style-name="P38" draw:layer="layout" svg:width="12.298cm" svg:height="6.451cm" svg:x="0.903cm" svg:y="6.205cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; </text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">.upto(</text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">).each </text:span><text:span text:style-name="T52">do</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; </text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">.upto(</text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">).each do</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; <text:s text:c="2"/>puts </text:span><text:span text:style-name="T57">‘HelloDev’</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">&gt;&gt; end</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
@@ -29813,16 +29770,16 @@
     </draw:frame>
     <draw:frame draw:style-name="gr217" draw:text-style-name="P38" draw:layer="layout" svg:width="12.9cm" svg:height="6.451cm" svg:x="14.001cm" svg:y="6.205cm">
      <draw:text-box>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; </text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">.down</text:span><text:span text:style-name="T52">to(</text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">).</text:span><text:span text:style-name="T52">each </text:span><text:span text:style-name="T52">do</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; <text:s text:c="2"/></text:span><text:span text:style-name="T52">puts </text:span><text:span text:style-name="T57">‘Hello</text:span><text:span text:style-name="T57">Dev’</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; </text:span><text:span text:style-name="T53">3</text:span><text:span text:style-name="T52">.downto(</text:span><text:span text:style-name="T53">1</text:span><text:span text:style-name="T52">).each do</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">?&gt; <text:s text:c="2"/>puts </text:span><text:span text:style-name="T57">‘HelloDev’</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52">&gt;&gt; end</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T52"/></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
-      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloD</text:span><text:span text:style-name="T52">ev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
+      <text:p text:style-name="P11"><text:span text:style-name="T52">HelloDev</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr218" draw:text-style-name="P41" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="13.803cm" svg:y="4.905cm">
+    <draw:frame draw:style-name="gr218" draw:text-style-name="P40" draw:layer="layout" svg:width="12.198cm" svg:height="1.115cm" svg:x="13.803cm" svg:y="4.905cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T61">.downto().each</text:span></text:p>
      </draw:text-box>
@@ -29855,8 +29812,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page47" draw:style-name="dp11" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page47" draw:style-name="dp10" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr221" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Comparison</text:span></text:p>
@@ -29870,8 +29826,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page48" draw:style-name="dp12" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page48" draw:style-name="dp11" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr222" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Branching</text:span></text:p>
@@ -29885,8 +29840,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page49" draw:style-name="dp13" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page49" draw:style-name="dp12" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr223" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Collection</text:span></text:p>
@@ -29899,8 +29853,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page50" draw:style-name="dp14" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page50" draw:style-name="dp13" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr224" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Looping</text:span></text:p>
@@ -29913,8 +29866,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page51" draw:style-name="dp15" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <draw:page draw:name="page51" draw:style-name="dp14" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr225" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Method</text:span></text:p>
@@ -29927,10 +29879,10 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page52" draw:style-name="dp16" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame draw:style-name="gr226" draw:text-style-name="P45" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
+   <draw:page draw:name="page52" draw:style-name="dp15" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame draw:style-name="gr226" draw:text-style-name="P44" draw:layer="layout" svg:width="15.82cm" svg:height="3.35cm" svg:x="6.09cm" svg:y="8.825cm">
      <draw:text-box>
-      <text:p text:style-name="P44"><text:span text:style-name="T78"><text:s/></text:span><text:span text:style-name="T78">EXTENDED <text:s/></text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T78"><text:s/></text:span><text:span text:style-name="T78">EXTENDED <text:s/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
@@ -29940,7 +29892,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page53" draw:style-name="dp17" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page53" draw:style-name="dp16" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr227" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">File IO</text:span></text:p>
@@ -29953,7 +29905,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page54" draw:style-name="dp18" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page54" draw:style-name="dp17" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr228" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Error Handling</text:span></text:p>
@@ -29966,7 +29918,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page55" draw:style-name="dp19" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page55" draw:style-name="dp18" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr229" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="5.933cm" svg:x="2.36cm" svg:y="7.534cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.Object Oriented</text:span></text:p>
@@ -29980,7 +29932,7 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page56" draw:style-name="dp20" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+   <draw:page draw:name="page56" draw:style-name="dp19" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
     <draw:frame draw:style-name="gr230" draw:text-style-name="P25" draw:layer="layout" svg:width="23.281cm" svg:height="3.092cm" svg:x="2.36cm" svg:y="8.954cm">
      <draw:text-box>
       <text:p text:style-name="P21"><text:span text:style-name="T13">.</text:span><text:span text:style-name="T14">Module</text:span></text:p>
@@ -29999,7 +29951,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Tips mencari dengan Google</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr232" draw:text-style-name="P46" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
+    <draw:frame draw:style-name="gr232" draw:text-style-name="P45" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="3.885cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T79">Gunakan prefix “ruby” sebagai awalan kata kunci untu mencari di Google.</text:span></text:p>
      </draw:text-box>
@@ -30022,18 +29974,18 @@
        <draw:handle draw:handle-position="$0 top" draw:handle-switched="true" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr234" draw:text-style-name="P47" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.6cm" svg:y="6.7cm">
+     <draw:frame draw:style-name="gr234" draw:text-style-name="P46" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.6cm" svg:y="6.7cm">
       <draw:text-box>
        <text:p><text:span text:style-name="T80"></text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:frame draw:style-name="gr235" draw:text-style-name="P48" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.4cm" svg:y="7cm">
+     <draw:frame draw:style-name="gr235" draw:text-style-name="P47" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.4cm" svg:y="7cm">
       <draw:text-box>
        <text:p text:style-name="P11"><text:span text:style-name="T81">ruby <text:s/></text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr236" draw:text-style-name="P46" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="9.986cm">
+    <draw:frame draw:style-name="gr236" draw:text-style-name="P45" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="9.986cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T79">Kemudian, diikuti dengan keyword apa yang mau dicari.</text:span></text:p>
       <text:p text:style-name="P11"><text:span text:style-name="T79">Misal, </text:span><text:span text:style-name="T82">tentang perulangan dengan method “each”</text:span><text:span text:style-name="T79">.</text:span></text:p>
@@ -30057,18 +30009,18 @@
        <draw:handle draw:handle-position="$0 top" draw:handle-switched="true" draw:handle-range-x-minimum="0" draw:handle-range-x-maximum="10800"/>
       </draw:enhanced-geometry>
      </draw:custom-shape>
-     <draw:frame draw:style-name="gr234" draw:text-style-name="P47" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.601cm" svg:y="12.901cm">
+     <draw:frame draw:style-name="gr234" draw:text-style-name="P46" draw:layer="layout" svg:width="0.2cm" svg:height="2.317cm" svg:x="2.601cm" svg:y="12.901cm">
       <draw:text-box>
        <text:p><text:span text:style-name="T80"></text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:frame draw:style-name="gr237" draw:text-style-name="P48" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.401cm" svg:y="13.201cm">
+     <draw:frame draw:style-name="gr237" draw:text-style-name="P47" draw:layer="layout" svg:width="20.4cm" svg:height="1.631cm" svg:x="4.401cm" svg:y="13.201cm">
       <draw:text-box>
        <text:p text:style-name="P11"><text:span text:style-name="T81">ruby each loop <text:s/></text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="gr238" draw:text-style-name="P46" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
+    <draw:frame draw:style-name="gr238" draw:text-style-name="P45" draw:layer="layout" svg:width="26.2cm" svg:height="1.979cm" svg:x="0.8cm" svg:y="16.187cm">
      <draw:text-box>
       <text:p text:style-name="P11"><text:span text:style-name="T79">Dengan cara ini, kita dapat membuat hasil pencarian yang lebih spesifik untuk bahasa pemrograman Ruby. </text:span></text:p>
      </draw:text-box>
@@ -30086,7 +30038,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T18">&gt; Referensi Belajar Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr240" draw:text-style-name="P49" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="1.05cm" svg:y="3.4cm">
+    <draw:frame draw:style-name="gr240" draw:text-style-name="P48" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="1.05cm" svg:y="3.4cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T79"> </text:span><text:span text:style-name="T79">YouTube:</text:span></text:p>
       <text:list text:style-name="L4">
@@ -30136,7 +30088,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr241" draw:text-style-name="P49" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="14.35cm" svg:y="3.401cm">
+    <draw:frame draw:style-name="gr241" draw:text-style-name="P48" draw:layer="layout" svg:width="11.95cm" svg:height="14.075cm" svg:x="14.35cm" svg:y="3.401cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T79"> </text:span><text:span text:style-name="T79">Online Course:</text:span></text:p>
       <text:list text:style-name="L4">
@@ -30160,7 +30112,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">untuk Bertanya seputar Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr243" draw:text-style-name="P49" draw:layer="layout" svg:width="23.75cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="6.9cm">
+    <draw:frame draw:style-name="gr243" draw:text-style-name="P48" draw:layer="layout" svg:width="23.75cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="6.9cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-item>
@@ -30180,7 +30132,7 @@
       <text:p text:style-name="P21"><text:span text:style-name="T18"><text:s text:c="2"/></text:span><text:span text:style-name="T18">untuk Berita tentang Ruby</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr245" draw:text-style-name="P49" draw:layer="layout" svg:width="24.35cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="15.5cm">
+    <draw:frame draw:style-name="gr245" draw:text-style-name="P48" draw:layer="layout" svg:width="24.35cm" svg:height="3.2cm" svg:x="1.05cm" svg:y="15.5cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-item>
@@ -30196,10 +30148,10 @@
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page60" draw:style-name="dp20" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
-    <draw:frame draw:style-name="gr246" draw:text-style-name="P50" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="8.954cm">
+   <draw:page draw:name="page60" draw:style-name="dp19" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL2T1">
+    <draw:frame draw:style-name="gr246" draw:text-style-name="P49" draw:layer="layout" svg:width="21.62cm" svg:height="3.092cm" svg:x="3.19cm" svg:y="8.954cm">
      <draw:text-box>
-      <text:p text:style-name="P44"><text:span text:style-name="T84"><text:s/></text:span><text:span text:style-name="T84">:Terima_Kasih </text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T84"><text:s/></text:span><text:span text:style-name="T84">:Terima_Kasih </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr247" draw:text-style-name="P25" draw:layer="layout" svg:width="19.079cm" svg:height="2.843cm" svg:x="3.2cm" svg:y="12.457cm">
